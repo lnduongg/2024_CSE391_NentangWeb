@@ -1,0 +1,37 @@
+.grid-layout {
+    display: grid; 
+    grid-template-columns: auto auto auto;
+}
+
+.rectangle {
+    width: 5px; 
+    height: 30px; 
+    background-color: rgb(163, 74, 61);
+    display: inline-block;
+    vertical-align: middle;
+}
+
+h2 {
+    font-family: 'Roboto', sans-serif;
+    display: inline-block;
+    vertical-align: middle;
+    color: rgb(163, 74, 61);
+}
+
+h4 {
+    font-family: 'Roboto', sans-serif;
+}
+
+.content {
+    width: 400px;
+    margin-bottom: 100px;
+}
+
+.content img {
+    width: 400px;
+    height: 200px;
+}
+
+.content i {
+    color: rgb(163, 74, 61);
+}
