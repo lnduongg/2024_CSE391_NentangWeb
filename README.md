@@ -6,3 +6,4 @@ Thành viên:
 - Luyện Ngọc Dương
 - Nguyễn Quyền Linh
 - Nguyễn Chí Hưng
+- Trần Văn Hoàng Nguyên
